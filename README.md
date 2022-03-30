@@ -1,6 +1,6 @@
 # SAAT-MOCK-TEST
 Take SAAT or SOA Mock Test now to start preparation for SAAT Entrance Exam, attempt questions based on the latest exam pattern and syllabus.
-# TAKE THE TEST HERE : https://subhranshuchoudhury.github.io/Saat-Mock-Test/
+# TAKE THE TEST HERE : https://subhranshuchoudhury.github.io/SAAT-MOCK-TEST/
 # Screenshots
 
 ![_home_subhranshu_Documents_SUBLIME_SAAT%20HELPER_index html(iPhone SE)](https://user-images.githubusercontent.com/63858190/160885335-544591bf-2721-4e25-84c9-c424b16a8680.png)
